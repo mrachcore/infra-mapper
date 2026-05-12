@@ -1,7 +1,7 @@
 # InfraMapper
 
 <p align="center">
-  <img src="assets/logo.png" width="200">
+  <img src="assets/logo.png" width="240">
 </p>
 
 **Local infrastructure inventory and documentation dashboard built with Python and Streamlit.**
