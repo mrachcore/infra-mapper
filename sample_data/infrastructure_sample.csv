@@ -1,0 +1,9 @@
+hostname,ip_address,device_type,os,location,owner,status,environment,criticality,last_updated
+srv-web01,192.168.10.10,server,Ubuntu 22.04,Datacenter A,IT Operations,online,production,high,2026-05-01
+srv-db01,192.168.10.11,server,Windows Server 2019,Datacenter A,Database Team,online,production,critical,2026-04-20
+srv-old01,192.168.10.12,server,Ubuntu 18.04,Datacenter B,IT Operations,online,production,medium,2025-11-10
+sw-core01,192.168.10.1,switch,Cisco IOS,Datacenter A,Network Team,online,production,critical,2026-03-15
+fw-edge01,192.168.10.254,firewall,FortiOS,Datacenter A,Security Team,online,production,critical,2026-02-11
+vm-test01,192.168.20.10,vm,Debian 12,Lab,Dev Team,offline,test,low,2026-01-05
+unknown-device,192.168.20.10,unknown,,Lab,,unknown,test,low,2024-08-01
+srv-legacy01,192.168.30.5,server,Windows Server 2012,Branch Office,IT Operations,online,production,high,2024-05-01
